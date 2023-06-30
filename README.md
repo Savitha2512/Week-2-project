@@ -1,0 +1,2 @@
+# Week-2-project
+WEEK 2 PROJECT ON SQL QUERIES
